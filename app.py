@@ -1,6 +1,6 @@
 print("heloo")
-print("second commit")
+print("secsssssond commit")
 
 
 print("dev commit")
-git log 
+print("hello mic testing")
